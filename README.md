@@ -6,7 +6,7 @@
 
 
 <p align="left"> 
-  Sou Desenvolvedor Junior, atualmente trabalhando na área de infraestrutura e apaixonado por técnologia.
+  Sou Desenvolvedor de Software, atualmente trabalhando na área de infraestrutura e apaixonado por técnologia.
   <br>Focado em solucionar problemas e aprender cada vez mais.
 </p>
 
@@ -38,8 +38,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
-  ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)    
-  
+   
   
   
    <h3> Colaboração </h3>
