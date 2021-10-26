@@ -6,7 +6,7 @@
 
 
 <p align="left"> 
-  Sou Desenvolvedor de Software, atualmente trabalhando na área de infraestrutura e apaixonado por técnologia.
+  Sou Desenvolvedor Front-end, com experiência na área de infraestrutura e apaixonado por técnologia.
   <br>Focado em solucionar problemas e aprender cada vez mais.
 </p>
 
