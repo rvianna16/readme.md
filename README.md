@@ -6,7 +6,7 @@
 
 
 <p align="left"> 
-  Sou Desenvolvedor Front-end, com experiência na área de infraestrutura e apaixonado por técnologia.
+  Sou Desenvolvedor Front-end, com experiência na área de infraestrutura e apaixonado por tecnologia.
   <br>Focado em solucionar problemas e aprender cada vez mais.
 </p>
 
@@ -28,7 +28,7 @@
 
   <br/>
   
-  <h3> Frontend </h3>
+  <h3> Front-end </h3>
   
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
