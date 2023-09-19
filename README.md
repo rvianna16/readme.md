@@ -11,7 +11,7 @@
 </p>
 
 - :health_worker: Atualmente trabalhando como Desenvolvedor Full-Stack;
-- 📖 Estou cursando <b>Análise e Desenvolvimento de Sistemas</b> na <b>Estácio</b>;
+- 📖 Formado em <b>Análise e Desenvolvimento de Sistemas</b> na <b>Estácio</b>;
 - 💌 Quem quiser entrar em contato comigo: ⤵️
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigoviannas/)
